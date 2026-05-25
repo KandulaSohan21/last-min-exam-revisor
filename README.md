@@ -1,4 +1,4 @@
-# 🎓🎓 Last Min Exam Revisor# 🎓🎓 
+# 🎓🎓 Last Min Exam Revisor 🎓🎓 
 ### *"You know what college is? It's a four-year-long setup... and the punchline is the exam tomorrow morning."*
 
 ---
